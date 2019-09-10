@@ -1,0 +1,2 @@
+# ArtisticPhoto
+Storage of photos
